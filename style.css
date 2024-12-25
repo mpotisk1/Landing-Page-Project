@@ -9,8 +9,8 @@ body, .landing-text, .img-text, ul, li, .end-content, .rectangle {
     margin-right: 20%;
 }
 img{
-    height: inherit;
-    max-width: auto;
+    width: 400px;
+    height: auto;
     object-fit: contain;
     
 }
